@@ -1,14 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <link href="css/fonts.css" rel="stylesheet" />
-        <link href="css/styles.css" rel="stylesheet" />
+        
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link href="css/fonts.css" rel="stylesheet" />
+        <link href="css/styles.css" rel="stylesheet" />
+        <link href="Ui_Game_Logo.ico" rel="icon" />
         <title>Home</title>
     </head>
-    
+
     <body>
         <table cellspacing="20">
             <tr>
@@ -48,48 +50,57 @@
             saberem.
         </p>
         <h1>Links dos Mais Pesquisados</h1>
-        <table cellspacing="20" align="center">
-            <tr>
-                <td>
-                    <img
-                        src="images/others/Event_Badge_Icon.png"
-                        alt="Mapa dos Emblemas"
-                        text-align="center"
-                        height="250"
-                    />
-                </td>
-                <td>
-                    <img
-                        src="images/mission/outpost/Ui_Texture_Outpost_Background_Art.png"
-                        alt="Sobreviventes"
-                        text-align="center"
-                        height="250"
-                    />
-                </td>
-                <td>
-                    <img
-                        src="images\others\19dad8ac85cb408b96924b2c95787577.png"
-                        alt="Edifício"
-                        text-align="center"
-                        height="250"
-                    />
-                </td>
-                <td>
-                    <img
-                        src="images/mission/guildwars/Map_WMIcons_GVG.png"
-                        alt="Guerras de Guilda"
-                        text-align="center"
-                        height="250"
-                    />
-                </td>
-            </tr>
-            <tr>
-                <td align="center">Mapa dos Emblemas:<br />Guia básico</td>
-                <td align="center">Sobreviventes:Emblemas, Talentos e<br />Melhores Heróis</td>
-                <td align="center">Edíficios: Qual<br />aprimorar primeiro?</td>
-                <td align="center">Guerras de Guilda</td>
-            </tr>
-        </table>
+        <div class="bigcontainer">
+            <div class="container">
+                <img
+                    class="image"
+                    src="images/others/Event_Badge_Icon.png"
+                    alt="Mapa dos Emblemas"
+                    text-align="center"
+                />
+                <div class="overlay">
+                    <div class="text">Mapa dos Emblemas: Guia Básico</div>
+                </div>
+            </div>
+            <div class="container">
+                <img
+                    class="image"
+                    src="images/mission/outpost/Ui_Texture_Outpost_Background_Art.png"
+                    alt="Sobreviventes"
+                    text-align="center"
+                    height="250"
+                />
+                <div class="overlay">
+                    <div class="text">Sobreviventes:Emblemas, Talentos e
+                        Melhores Heróis</div>
+                </div>
+            </div>
+            <div class="container">
+                <img
+                    class="image"
+                    src="images\others\19dad8ac85cb408b96924b2c95787577.png"
+                    alt="Edifício"
+                    text-align="center"
+                    height="250"
+                />
+                <div class="overlay">
+                    <div class="text">Edíficios: Qual
+                        aprimorar primeiro?</div>
+                </div>
+            </div>
+            <div class="container">
+                <img
+                    class="image"
+                    src="images/mission/guildwars/Map_WMIcons_GVG.png"
+                    alt="Guerras de Guilda"
+                    text-align="center"
+                    height="250"
+                />
+                <div class="overlay">
+                    <div class="text">Guerras de Guilda</div>
+                </div>
+            </div>
+        </div>
         <h2>Organização do Site</h2>
         <p>
             O Site foi organizado para separar as informações dos guias do jogo. Grande parte do
