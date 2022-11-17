@@ -1,0 +1,167 @@
+@font-face {
+    font-family: "Amatic SC";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("../tff/Amatic SC Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Amatic SC";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("../tff/Amatic SC Bold.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Bree Serif";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("../tff/Bree Serif Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Google Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("../tff/Google Sans Medium.ttf")
+        format("truetype");
+}
+@font-face {
+    font-family: "Google Sans";
+    font-style: normal;
+    font-weight: 500;
+    src: url("../tff/Google Sans Medium.ttf")
+        format("truetype");
+}
+@font-face {
+    font-family: "Inconsolata";
+    font-style: normal;
+    font-weight: 400;
+    font-stretch: normal;
+    src: url("../tff/Inconsolata Regular.ttf")
+        format("truetype");
+}
+@font-face {
+    font-family: "Inconsolata";
+    font-style: normal;
+    font-weight: 700;
+    font-stretch: normal;
+    src: url("../tff/Inconsolata Bold.ttf")
+        format("truetype");
+}
+@font-face {
+    font-family: "Merriweather";
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url("../tff/Merriweather Italic.ttf")
+        format("truetype");
+}
+@font-face {
+    font-family: "Merriweather";
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url("../tff/Merriweather Bold Italic.ttf")
+        format("truetype");
+}
+@font-face {
+    font-family: "Merriweather";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("../tff/Merriweather Regular.ttf")
+        format("truetype");
+}
+@font-face {
+    font-family: "Merriweather";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("../tff/Merriweather Bold.ttf")
+        format("truetype");
+}
+@font-face {
+    font-family: "Product Sans";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../tff/Product Sans.ttf")
+        format("truetype");
+}
+@font-face {
+    font-family: "PT Sans";
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url("../tff/PT Sans Italic.ttf") format("truetype");
+}
+@font-face {
+    font-family: "PT Sans";
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url("../tff/PT Sans Bold Italic.ttf")
+        format("truetype");
+}
+@font-face {
+    font-family: "PT Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("../tff/PT Sans.ttf") format("truetype");
+}
+@font-face {
+    font-family: "PT Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("../tff/PT Sans Bold.ttf")
+        format("truetype");
+}
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 100;
+    src: url("../tff/Roboto Thin.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 300;
+    src: url("../tff/Roboto Light.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../tff/Roboto Medium.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    src: url("../tff/Roboto Medium.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 700;
+    src: url("../tff/Roboto Bold.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Source Code Pro";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("tff/Source Code Pro Extralight Bold.ttf")
+        format("truetype");
+}
+@font-face {
+    font-family: "Source Code Pro";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("tff/Source Code Pro Extralight Regular.ttf")
+        format("truetype");
+}

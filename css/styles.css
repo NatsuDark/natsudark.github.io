@@ -1,0 +1,35 @@
+body {
+    font-family: "Merriweather";
+    font-size: 11pt;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    vertical-align: baseline;
+}
+h1 {
+    font-family: "PT Sans";
+    font-size: 22pt;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 26.4px;
+    color: rgba(0,102,56,1);
+}
+h2 {
+    font-family: "PT Sans";
+    font-size: 17pt;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 26.4px;
+    color: rgba(0,102,56,1);
+}
+h3 {
+    font-family: "PT Sans";
+    font-size: 11pt;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 15.4px;
+    color: rgba(0,102,56,1);
+}
